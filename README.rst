@@ -1,5 +1,5 @@
 ==========
-Django JET
+Django JET -- with a temp jQuery Patch
 ==========
 
 .. image:: https://travis-ci.org/geex-arts/django-jet.svg?branch=master
